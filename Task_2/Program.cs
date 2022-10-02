@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Введите первое целое число:");
+﻿// Программа, которая принимает на вход три целых числа и выдаёт максимальное из этих чисел.
+
+Console.WriteLine("Введите первое целое число:");
 int a=Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите второе целое число:");
 int b=Convert.ToInt32(Console.ReadLine());
